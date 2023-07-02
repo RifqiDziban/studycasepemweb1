@@ -1,0 +1,72 @@
+#header #logo {
+	color:#FFF;
+}
+#header #nav li a {
+	color:#FFF;
+}
+#header #nav li a:hover {
+	text-decoration:underline;
+}
+#header #nav li.current a {
+	background-color:#FFF;
+	color:#004B96;
+}
+#footer {
+	background-color:#EEE;
+}
+body {
+	background-color:#FFF;
+	color:#555;
+}
+a {
+	color:#004B96;
+}
+a:hover, a:active, a:focus {
+	color:#0065C8;
+}
+h1 {
+	color:#004B96;
+}
+h2 {
+	color:#004B96;
+}
+.articles .article-info {
+	border-bottom:1px dotted #CCC;
+	color:#888;
+}
+.articles .article-info a {
+	color:#888;
+}
+.articles .article-info a:hover {
+	color:#555;
+}
+.pagination a.current {
+	background-color:#004B96;
+	color:#FFF;
+}
+.selengkapnya a {
+	border:1px solid #DDD;
+	border-right:1px solid #CCC;
+	border-bottom:1px solid #CCC;
+	background-color:#EEE;
+	color:#000;
+}
+.selengkapnya a:hover {
+	background-color:#FFF;
+	color:#004B96;
+}
+.about {
+	border-top:1px dotted #CCC;
+}
+.about li a {
+	border-bottom:1px dotted #CCC;
+}
+.about li.current a {
+	color:#555;
+}
+.contact {
+	color:#888;
+}
+.contact li {
+	border-bottom:1px dotted #CCC;
+}
